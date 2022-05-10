@@ -1,0 +1,5 @@
+# artifact files
+redis_env/
+
+# Compiled Python bytecode
+*.py[cod]
